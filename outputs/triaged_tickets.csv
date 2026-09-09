@@ -1,0 +1,16 @@
+ticket_id,subject,category,urgency,confidence,route_to,human_review,processing_status,reason
+T001,Payment failed,Payment,High,0.95,Payments Team,False,DEMO,The customer is experiencing a payment failure.
+T002,Cannot login,Authentication,High,0.94,Identity & Access Team,False,DEMO,The customer cannot log in to the account.
+T003,Website completely down,Service Outage,Critical,0.96,Infrastructure Team,False,DEMO,The website is completely unavailable.
+T004,Change account email,Account,Low,0.93,Account Management Team,False,DEMO,The customer wants to change account information.
+T005,Package delayed,Shipping,Medium,0.95,Logistics Team,False,DEMO,The issue concerns a delayed package.
+T006,Application crashing,Technical Issue,High,0.91,Technical Support Team,False,DEMO,The application is crashing.
+T007,Refund status,Payment,Medium,0.9,Payments Team,False,DEMO,The customer is asking about a refund.
+T008,Password reset not working,Authentication,High,0.92,Identity & Access Team,False,DEMO,The password reset process is not working.
+T009,Production outage,Service Outage,Critical,0.97,Infrastructure Team,False,DEMO,The production service is experiencing an outage.
+T010,Wrong shipping address,Shipping,Medium,0.94,Logistics Team,False,DEMO,The customer needs help with a shipping address.
+T011,Payment methods,Payment,Low,0.91,Payments Team,False,DEMO,The customer is asking about available payment methods.
+T012,Login problem,Authentication,High,0.89,Identity & Access Team,False,DEMO,The customer is unable to log in.
+T013,Slow dashboard,Technical Issue,Medium,0.88,Technical Support Team,False,DEMO,The dashboard is functioning slowly.
+T014,Duplicate charge,Payment,High,0.96,Payments Team,False,DEMO,The customer reports a duplicate payment charge.
+T015,Something is wrong,General,Medium,0.55,Customer Support Team,True,DEMO,The ticket is ambiguous and does not clearly match a specific category.
